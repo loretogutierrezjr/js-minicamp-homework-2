@@ -11,7 +11,7 @@ function getBiggest(x, y) {
 }
 
 function greeting(language) {
-  //return a grdeeting for three different languages:
+  //return a greeting for three different languages:
   //language: 'German' -> 'Guten Tag!'
   //language: 'English' -> 'Hello!'
   //language: 'Spanish' -> 'Hola!'
